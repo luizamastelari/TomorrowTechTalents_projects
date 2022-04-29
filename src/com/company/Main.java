@@ -1,5 +1,7 @@
 package com.company;
 
+import aula_3.*;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -19,6 +21,14 @@ public class Main {
 		Ex14 ex14 = new Ex14();
 		Ex15 ex15 = new Ex15();
 
+		//List 3
+		L3_ex1 l3_ex1 = new L3_ex1();
+		L3_ex3 l3_ex3 = new L3_ex3();
+		L3_ex4 l3_ex4 = new L3_ex4();
+		L3_ex5 l3_ex5 = new L3_ex5();
+		L3_ex6 l3_ex6 = new L3_ex6();
+		L3_ex7 l3_ex7 = new L3_ex7();
+
 		//ex1.temps(0);
     	//ex2.howManyHorses(1,1, 10);
     	//ex3.totalPaid(100,10);
@@ -34,8 +44,13 @@ public class Main {
 		//ex13.totalPrice(50000.00);
 		//ex14.circleArea(5);
 		//ex15.howManyHorseshoe(15);
-		
 
+		//Double[] arr_ex1 = {7.0, 8.0,3.0,9.5};
+		//L3_ex1.approvedOrNot(arr_ex1);
+		//l3_ex3.countMultipleTen();
+		//l3_ex5.howIMC(58,1.57);
+		//l3_ex6.countDown100();
+		l3_ex7.factorial(6);
 
     }
 }
