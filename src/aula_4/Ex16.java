@@ -1,5 +1,6 @@
 package aula_4;
 
+
 import java.util.Scanner;
 
 public class Ex16 {
