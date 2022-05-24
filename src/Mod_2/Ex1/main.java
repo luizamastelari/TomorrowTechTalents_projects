@@ -1,7 +1,6 @@
 package Mod_2.Ex1;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 
 public class main {
     public static void main(String[] args){
